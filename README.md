@@ -23,7 +23,7 @@ A Python tool for mindfully collecting images from the web community, embodying 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Ubuntu_Requests.git
+   git clone https://github.com/liliankavengi/Ubuntu_Requests.git
    cd Ubuntu_Requests
    ```
 
